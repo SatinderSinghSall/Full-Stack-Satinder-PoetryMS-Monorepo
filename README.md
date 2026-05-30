@@ -1,5 +1,13 @@
 # ✨ Full-Stack Satinder Poetry Management System
 
+---
+
+Full-Stack Poetry Publishing & Content Management Platform
+
+MERN-Based Poetry Publishing Platform with Admin Dashboard & Subscriber System
+
+---
+
 A modern full-stack poetry platform built with the MERN ecosystem.
 
 This project provides:
